@@ -52,9 +52,9 @@ Key steps: fastp → SPAdes (`--careful`) → Snippy (`--mincov 10 --minfrac 0.9
 
 Three clones within host 22M21:
 
-- **near-ref**: X019, Y1620, Y1621, Y1624, Y1626 (2–5 SNPs)
-- **Cluster A**: Y093, Y097, Y101, Y104 (8–33 SNPs)
-- **Cluster B**: Y1464, Y1615 (102 SNPs)
+- **A**: X019, Y1620, Y1621, Y1624, Y1626 (2–5 SNPs)
+- **B**: Y093, Y097, Y101, Y104 (8–33 SNPs)
+- **C**: Y1464, Y1615 (102 SNPs)
 
 Between-clone distances are ~22,000–24,000 SNPs, supporting **multi-clone coexistence**.
 
@@ -72,6 +72,3 @@ Tree figure in `Figures/` was produced from `Results/core.tree` (e.g. with ape /
 - Snippy: Seemann T. https://github.com/tseemann/snippy
 - This example: Zhu Zhihao (contact for reads and questions)
 
-## License
-
-Pipeline scripts and example outputs in this repository: MIT. Snippy itself is GPL-2.0.
