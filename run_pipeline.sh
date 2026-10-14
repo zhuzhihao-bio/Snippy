@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Snippy example: E. faecalis isolates from host 22M21
+# Snippy example: E. faecalis isolates
 # Author: Zhu Zhihao  Date: 2026.10.12
 # Raw reads: contact the author (not deposited with this example).
 # Place paired FASTQs as:
