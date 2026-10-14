@@ -38,15 +38,6 @@ raw/reads/{id}_2.fq.gz
 
 where `{id}` is the first column of `metadata.txt`.
 
-## Quick start
-
-```bash
-# 1. Put metadata.txt and run_pipeline.sh in ~/snippy (or edit paths)
-# 2. Place reads under raw/reads/
-bash run_pipeline.sh
-```
-
-Key steps: fastp → SPAdes (`--careful`) → Snippy (`--mincov 10 --minfrac 0.9`, skip self-vs-X019) → `snippy-core` → FastTree → snp-dists.
 
 ## Expected result (this example)
 
