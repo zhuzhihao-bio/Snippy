@@ -1,6 +1,6 @@
-# Snippy example: clonal structure within host 22M21
+# Snippy example: clonal structure
 
-Example workflow using [Snippy](https://github.com/tseemann/snippy) (v4.6.0) to assess within-host clonal structure of *Enterococcus faecalis* isolates from host **22M21**, with **X019** as the reference.
+Example workflow using [Snippy](https://github.com/tseemann/snippy) (v4.6.0) to assess within-host clonal structure of *Enterococcus faecalis* isolates, with **X019** as the reference.
 
 ## Contents
 
@@ -41,7 +41,7 @@ where `{id}` is the first column of `metadata.txt`.
 
 ## Expected result (this example)
 
-Three clones within host 22M21:
+Three clones within host:
 
 - **A**: X019, Y1620, Y1621, Y1624, Y1626 (2–5 SNPs)
 - **B**: Y093, Y097, Y101, Y104 (8–33 SNPs)
