@@ -2,7 +2,6 @@
 # =============================================================================
 # plot_heatmap.R
 # Publication-style core-SNP distance heatmap for Enterococcus faecalis
-# host 22M21 (Snippy core.snpdists.tsv).
 #
 # Author : Zhu Zhihao (朱志豪)
 # Date   : 2026-10-13
@@ -22,7 +21,7 @@
 #   # BiocManager::install("ComplexHeatmap")
 # =============================================================================
 
-message("=== plot_heatmap.R: Core SNP distance heatmap (host 22M21) ===")
+message("=== plot_heatmap.R: Core SNP distance heatmap ===")
 
 # --- Packages ----------------------------------------------------------------
 need <- c("ggplot2", "scales")
