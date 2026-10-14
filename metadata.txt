@@ -1,12 +1,12 @@
-id	sample_genome_id	host	species	role
-X019	22M21_X253	22M21	Enterococcus faecalis	reference
-Y093	22M21_Y145	22M21	Enterococcus faecalis	sample
-Y097	22M21_Y197	22M21	Enterococcus faecalis	sample
-Y101	22M21_Y252	22M21	Enterococcus faecalis	sample
-Y104	22M21_Y283	22M21	Enterococcus faecalis	sample
-Y1464	22M21_X53A	22M21	Enterococcus faecalis	sample
-Y1615	22M21_X12_3A	22M21	Enterococcus faecalis	sample
-Y1620	22M21__X157_14A	22M21	Enterococcus faecalis	sample
-Y1621	22M21_X248_18B	22M21	Enterococcus faecalis	sample
-Y1624	22M21__X276_24B	22M21	Enterococcus faecalis	sample
-Y1626	22M21_X277_25A	22M21	Enterococcus faecalis	sample
+id	sample_genome_id	species	role
+X019	22M21_X253	Enterococcus faecalis	reference
+Y093	22M21_Y145	Enterococcus faecalis	sample
+Y097	22M21_Y197	Enterococcus faecalis	sample
+Y101	22M21_Y252	Enterococcus faecalis	sample
+Y104	22M21_Y283	Enterococcus faecalis	sample
+Y1464	22M21_X53A	Enterococcus faecalis	sample
+Y1615	22M21_X12_3A	Enterococcus faecalis	sample
+Y1620	22M21__X157_14A	Enterococcus faecalis	sample
+Y1621	22M21_X248_18B	Enterococcus faecalis	sample
+Y1624	22M21__X276_24B	Enterococcus faecalis	sample
+Y1626	22M21_X277_25A	Enterococcus faecalis	sample
