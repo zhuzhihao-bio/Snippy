@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Snippy example: E. faecalis isolates
 # Author: Zhu Zhihao  Date: 2026.10.12
-# Raw reads: contact the author (not deposited with this example).
+# Raw reads: Genome Sequence Archive under BioProject PRJCA058049 (run accessions are available in metadata).
 # Place paired FASTQs as:
 #   raw/reads/{id}_1.fq.gz
 #   raw/reads/{id}_2.fq.gz
