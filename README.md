@@ -29,7 +29,7 @@ conda activate snippy
 
 ## Data availability
 
-Raw sequencing reads are **not** included. Please contact the author to request access. Place paired FASTQs as:
+The sequencing data used in this example are available in the Genome Sequence Archive under BioProject PRJCA058049 (run accessions are available in metadata). Place paired FASTQs as:
 
 ```text
 raw/reads/{id}_1.fq.gz
